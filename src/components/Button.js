@@ -7,5 +7,5 @@ export default function Button () {
         <main>
             <button type="button" className="btn1">Email</button>
             <button type="button" className="btn2">LinkedIn</button>
-        </main>
+        </main> 
 )}

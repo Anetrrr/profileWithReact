@@ -7,7 +7,7 @@ export default function Main () {
         <div className="main">
         <h2>About</h2>
         <> A passionate frontend developer that translates front-end code, estimate project time and costs, determine developer requirements and specifications, and work with cross-functional team to define and develop product roadmaps.</>
-        <h2>Interest</h2>
+        <h2>Workdone</h2>
         <> Prepared and presented technical proposals for clients |
             Assisted in the monitoring and reporting on website traffic and performance |
             Created HTML email templates and newsletters for e-mail marketing campaigns |
