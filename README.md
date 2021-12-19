@@ -1,2 +1,2 @@
 # profileWithReact
-Random structure of profile using react
+Random overview of personal profile. Creating basic components with #React
